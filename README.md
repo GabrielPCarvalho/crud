@@ -6,11 +6,11 @@
 <p align="center">
  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=161e2f&labelColor=107770" alt="License">
  
-  <img src="https://img.shields.io/github/forks/GabrielPCarvalho/Plantmanager?label=forks&message=MIT&color=161e2f&labelColor=107770" alt="Forks">
+  <img src="https://img.shields.io/github/forks/GabrielPCarvalho/crud?label=forks&message=MIT&color=161e2f&labelColor=107770" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/GabrielPCarvalho/Plantmanager?label=stars&message=MIT&color=161e2f&labelColor=107770 " alt="Stars">
+  <img src="https://img.shields.io/github/stars/GabrielPCarvalho/crud?label=stars&message=MIT&color=161e2f&labelColor=107770 " alt="Stars">
 
- <img src="https://img.shields.io/static/v1?label=NLW&message=05&color=161e2f&labelColor=107770" alt="NLW 05" />
+ <img src="https://img.shields.io/static/v1?label=NLW&message=01&color=161e2f&labelColor=107770" alt="CRUD" />
 </p>
 
 <p align="center">
